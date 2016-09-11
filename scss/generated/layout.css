@@ -1,0 +1,19 @@
+/* line 7, ../layout.scss */
+html {
+  box-sizing: border-box;
+}
+
+/* line 10, ../layout.scss */
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* line 14, ../layout.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 18, ../layout.scss */
+ul {
+  list-style: none;
+}
